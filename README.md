@@ -29,13 +29,13 @@
 ## 📸 Screenshots
 
 ### Desktop Version
-![Desktop Screenshot](/mnt/data/8934a027-154e-4fa2-b9d4-95859661a74f.png)
+![Desktop Screenshot](./desktop-menu-copokent.png)
 
 ### Mobile Menu View
-![Mobile Screenshot](/mnt/data/a1927553-3d56-401d-affe-b8840db4a8ce.png)
+![Mobile Screenshot](./mobile-menu-copokent.png)
 
 ### Cart View on Mobile
-![Mobile Cart Screenshot](/mnt/data/2a430d7f-acd0-4ac2-8eb9-76300949cfa4.png)
+![Mobile Cart Screenshot](carrinho-copokent.png)
 
 ## 📍 Location Specific
 
